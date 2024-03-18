@@ -1,4 +1,5 @@
 # Quote Generator 💭
+https://api.quotable.io/random
 
 ## Screenshots 📷
 ![image](https://github.com/StefaniaPaduraru/quote-generator/assets/100425781/33a21771-7741-408c-b766-08d6ce7fd8e3)
